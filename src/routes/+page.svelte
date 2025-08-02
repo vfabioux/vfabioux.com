@@ -138,6 +138,7 @@
 
 	header {
 		background-color: #191528;
+		box-shadow: 0 0 1rem black;
 		flex: 0 0 auto;
 		width: 100vw;
 
@@ -201,4 +202,3 @@
 		}
 	}
 </style>
-

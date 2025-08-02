@@ -42,6 +42,15 @@
 		a {
 			color: unset;
 		}
+
+		h1 {
+			margin: 0 0 1rem 0;
+			text-transform: uppercase;
+		}
+
+		li {
+			margin: 0.4rem;
+		}
 	}
 
 	ul.contacts {
@@ -54,6 +63,7 @@
 
 		a {
 			background-color: #191528;
+			box-shadow: 0 0 1rem black;
 			color: unset;
 			display: inline-block;
 			padding: 1rem;

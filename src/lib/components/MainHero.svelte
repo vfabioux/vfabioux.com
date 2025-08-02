@@ -48,6 +48,7 @@
 
 	div.card {
 		background-color: #191528;
+		box-shadow: 0 0 1rem black;
 		height: 24rem;
 		padding: 2rem;
 
@@ -80,6 +81,7 @@
 
 		a {
 			background-color: #191528;
+			box-shadow: 0 0 1rem black;
 			color: unset;
 			display: inline-block;
 			padding: 1rem;
