@@ -1,5 +1,5 @@
 <div class="card">
-	<img src="photo.png" alt="Vincent Fabioux" />
+	<img src="photo.webp" alt="Vincent Fabioux" />
 	<h1>Vincent <b>Fabioux</b></h1>
 	<h2>Ingénieur logiciel confirmé</h2>
 	<p>
@@ -10,12 +10,12 @@
 <ul class="links">
 	<li>
 		<a href="https://fr.ivalua.com/" target="_blank">
-			<img src="ivalua.png" alt="Polytech" />Employé chez<b>Ivalua (France)</b>depuis 2021</a
+			<img src="ivalua.webp" alt="Polytech" />Employé chez<b>Ivalua (France)</b>depuis 2021</a
 		>
 	</li>
 	<li>
 		<a href="https://www.polytech.universite-paris-saclay.fr/" target="_blank"
-			><img src="polytech.png" alt="Polytech" />Diplômé de<b>Polytech Paris-Sud</b>depuis 2018</a
+			><img src="polytech.webp" alt="Polytech" />Diplômé de<b>Polytech Paris-Sud</b>depuis 2018</a
 		>
 	</li>
 	<li><a href="/#contact">&nbsp;<b>Me contacter</b>&nbsp;</a></li>

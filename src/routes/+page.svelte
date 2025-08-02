@@ -6,7 +6,7 @@
 	import MainSkills from '$lib/components/MainSkills.svelte';
 	import type { Component } from 'svelte';
 	import MainExperience from '$lib/components/MainExperience.svelte';
-	import { pushState, replaceState } from '$app/navigation';
+	import { replaceState } from '$app/navigation';
 
 	const sections: { Component: Component; hash: string; title: string }[] = [
 		{
@@ -109,6 +109,7 @@
 		@font-face {
 			font-family: 'Lato';
 			src: url('/Lato-Regular.ttf');
+			font-display: swap;
 		}
 	}
 
