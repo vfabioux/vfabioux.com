@@ -1,7 +1,7 @@
 <div class="card">
 	<img src="photo.webp" alt="Vincent Fabioux" />
-	<h1>Vincent <b>Fabioux</b></h1>
-	<h2>Ingénieur logiciel confirmé</h2>
+	<h2>Vincent <b>Fabioux</b></h2>
+	<h3>Ingénieur logiciel confirmé</h3>
 	<p>
 		Ce site est en cours de rénovation et n'est pas fini. Beaucoup de sections sont incomplètes et il n'est pas
 		responsive du tout, surtout sur mobile.
@@ -33,7 +33,7 @@
 		}
 	}
 
-	h1 {
+	h2 {
 		font-size: 3rem;
 		font-weight: normal;
 		letter-spacing: 0.1rem;
@@ -41,7 +41,7 @@
 		margin: 0 0 1rem 0;
 	}
 
-	h2 {
+	h3 {
 		font-size: 1.5rem;
 		margin: 1rem 0 2rem 0;
 	}

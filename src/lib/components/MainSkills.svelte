@@ -1,2 +1,2 @@
-<h1>Mes compétences</h1>
+<h2>Mes compétences</h2>
 <p>Travail en cours</p>

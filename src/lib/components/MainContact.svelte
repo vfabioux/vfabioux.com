@@ -1,5 +1,5 @@
 <div class="status">
-	<h1>❌ Pas en recherche d'emploi</h1>
+	<h2>❌ Pas en recherche d'emploi</h2>
 	<p>
 		Je suis actuellement satisfait de mon emploi chez <a href="https://fr.ivalua.com/" target="_blank">Ivalua</a>.
 	</p>
@@ -43,7 +43,8 @@
 			color: unset;
 		}
 
-		h1 {
+		h2 {
+			font-size: 3rem;
 			margin: 0 0 1rem 0;
 			text-transform: uppercase;
 		}

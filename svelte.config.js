@@ -3,13 +3,13 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	// Consult https://svelte.dev/docs/kit/integrations
-	// for more information about preprocessors
 	preprocess: vitePreprocess(),
 	kit: {
 		adapter: adapter(),
+		// Inline CSS in the HTML file if smaller than 100kb ; reduce first hit load
+		inlineStyleThreshold: 102400,
 		prerender: {
-			// Hash links are handled using JavaScript
+			// Hash links are handled using JavaScript instead of ids
 			handleMissingId: 'ignore'
 		}
 	}
